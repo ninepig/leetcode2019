@@ -1,13 +1,15 @@
 package backTracking;
 
+/**
+ * searching problem, using backtrack
+ *
+ * Leetcode 526
+ */
 public class countArrangement {
     int count ;
     public int countArrangement(int N) {
-
         if(N == 0) return 0;
-
         helper(N, 1 , new int[N+1]);
-
         return count;
     }
 
@@ -23,6 +25,4 @@ public class countArrangement {
             }
         }
     }
-
-
 }
