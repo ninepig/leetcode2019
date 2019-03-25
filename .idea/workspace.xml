@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c54ae59-f4d2-48a4-942b-fb8cd3da2335" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/countCompleteTreeNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dfs/wordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/perfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facebook/addTwoNumber002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facebook/threeSum015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facebook/twoSum001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/uglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/uglyNumber2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reserviorSampling/shuffleAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/basicCaclulatorii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/StringCompression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c54ae59-f4d2-48a4-942b-fb8cd3da2335" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +13,7 @@
     <session id="2003363361">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.9" value="1" />
           <entry key="project.opened" value="2" />
@@ -82,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/facebook/addTwoNumber002.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="135">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -136,7 +121,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -176,7 +161,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553194176620" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553194179720" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -488,7 +473,7 @@
       <workItem from="1552998399860" duration="599000" />
       <workItem from="1553037122285" duration="2080000" />
       <workItem from="1553089218893" duration="333000" />
-      <workItem from="1553177651613" duration="2715000" />
+      <workItem from="1553177651613" duration="2942000" />
     </task>
     <task id="LOCAL-00001" summary="2018.christmas">
       <created>1545842707995</created>
@@ -501,11 +486,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43257000" />
+    <option name="totallyTimeSpent" value="43484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25121164" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -739,8 +723,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/facebook/addTwoNumber002.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="135">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
