@@ -1,4 +1,4 @@
-package facebook;
+package systemDesign;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -32,7 +32,7 @@ public class EncodeAndDecodeUrl {
         int val = 0;
         int n = shortUrl.length();
         for (int i = 0 ; i < n ; i++){
-            val = val*52 + s.indexOf(shortUrl.charAt(i));
+            val = val*62 + s.indexOf(shortUrl.charAt(i));
         }
         return map2.get(val);
     }
