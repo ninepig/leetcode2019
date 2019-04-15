@@ -6,7 +6,7 @@ import java.util.Queue;
 /**
  * Created by yangw on 2019/3/29.
  */
-public class SandDBinaryTree {
+public class SandDBinaryTree297 {
     public String serialize(TreeNode root) {
         if(root == null) return "";
         StringBuilder sb = new StringBuilder();
