@@ -2,16 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="032848db-5bbf-4c07-bb11-c5b510fe7d6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/facebook/FloodFill733.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/facebook/StringCompression443.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/facebook/TrieTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/facebook/addTwoNumber445.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/facebook/compareVersion165.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/facebook/courseSchedule207.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/facebook/searchMatrix240.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/facebook/symmetricTree101.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/BipartiteGraph785.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/ConstructBtFromPreOrderAndInorderTravel105.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/DegreeOfAnArray697.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/DeleteNodeInaBST450.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/RotateArray189.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/WiggleSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/combinationSum39.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/dailyTempertures739.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/decodeString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/findCelebreties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/findDuplicatedSubTrees652.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/firstAndLastElement34.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/firstMissingPossitive041.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/hammingDistance461.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/largestNumber179.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/maxDepthTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/maxProductSubArray152.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/minDepthTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/missingNumber268.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/reversePolitishNotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/sqrt69.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/MergeKList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/SortList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/bestTime122.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/binaryTreeLevelOrder102.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/cloneGraph.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/findMedianSortedArrays004.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/groupAnagram049.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/hasCycel141.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/longestConsequtiveSequence.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/maxAreaOfIsland.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/mergeIntevals.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/myPow050.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/reveseLinkedList234.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/subArrayEqualsK.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/validBst098.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/facebook/wordLadder127.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/Atoi8.java" afterPath="$PROJECT_DIR$/src/amazon/Atoi8.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/BasicCalculator.java" afterPath="$PROJECT_DIR$/src/amazon/BasicCalculator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/BasicCalculatorIII772.java" afterPath="$PROJECT_DIR$/src/amazon/BasicCalculatorIII772.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/BasicCalculatorii227.java" afterPath="$PROJECT_DIR$/src/amazon/BasicCalculatorii227.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/BinarySearchTreeIterator173.java" afterPath="$PROJECT_DIR$/src/amazon/BinarySearchTreeIterator173.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/BinaryTreeInorderTravel.java" afterPath="$PROJECT_DIR$/src/amazon/BinaryTreeInorderTravel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/DivideTwoInteger.java" afterPath="$PROJECT_DIR$/src/amazon/DivideTwoInteger.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/FindMedianFromDataStream295.java" afterPath="$PROJECT_DIR$/src/amazon/FindMedianFromDataStream295.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/FindMinimumInRotatedSortedArray153.java" afterPath="$PROJECT_DIR$/src/amazon/FindMinimumInRotatedSortedArray153.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/FlattenBinaryTreeToLinkedList114.java" afterPath="$PROJECT_DIR$/src/amazon/FlattenBinaryTreeToLinkedList114.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/FloodFill733.java" afterPath="$PROJECT_DIR$/src/amazon/FloodFill733.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/GenerateParentheses.java" afterPath="$PROJECT_DIR$/src/amazon/GenerateParentheses.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/InsertDeleteGetRandom380.java" afterPath="$PROJECT_DIR$/src/amazon/InsertDeleteGetRandom380.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/IntegerToEnglishWords.java" afterPath="$PROJECT_DIR$/src/amazon/IntegerToEnglishWords.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/KEmtpySlotLock683.java" afterPath="$PROJECT_DIR$/src/amazon/KEmtpySlotLock683.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/LRUcache146.java" afterPath="$PROJECT_DIR$/src/amazon/LRUcache146.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/LicenseKeyFormating482.java" afterPath="$PROJECT_DIR$/src/amazon/LicenseKeyFormating482.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/ListNode.java" afterPath="$PROJECT_DIR$/src/amazon/ListNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/LongestCommonPrefix.java" afterPath="$PROJECT_DIR$/src/amazon/LongestCommonPrefix.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/LongestPalindromeString005.java" afterPath="$PROJECT_DIR$/src/amazon/LongestPalindromeString005.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/LongestSubStringWithoutReapeatingChar003.java" afterPath="$PROJECT_DIR$/src/amazon/LongestSubStringWithoutReapeatingChar003.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/MaxPointsOnALine.java" afterPath="$PROJECT_DIR$/src/amazon/MaxPointsOnALine.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/MaximumSubArray054.java" afterPath="$PROJECT_DIR$/src/amazon/MaximumSubArray054.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/MinimumWindowSubString76.java" afterPath="$PROJECT_DIR$/src/amazon/MinimumWindowSubString76.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/PalindromeNumber009.java" afterPath="$PROJECT_DIR$/src/amazon/PalindromeNumber009.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/Permutation046.java" afterPath="$PROJECT_DIR$/src/amazon/Permutation046.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/ReverseString344.java" afterPath="$PROJECT_DIR$/src/amazon/ReverseString344.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/RomanToInt013.java" afterPath="$PROJECT_DIR$/src/amazon/RomanToInt013.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/RotateImage098.java" afterPath="$PROJECT_DIR$/src/amazon/RotateImage098.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/SandDBinaryTree.java" afterPath="$PROJECT_DIR$/src/amazon/SandDBinaryTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/SpiralOrderMatrix054.java" afterPath="$PROJECT_DIR$/src/amazon/SpiralOrderMatrix054.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/StringCompression443.java" afterPath="$PROJECT_DIR$/src/amazon/StringCompression443.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/TrappingRainWater.java" afterPath="$PROJECT_DIR$/src/amazon/TrappingRainWater.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/TreeNode.java" afterPath="$PROJECT_DIR$/src/amazon/TreeNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/TrieTree.java" afterPath="$PROJECT_DIR$/src/amazon/TrieTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/ValidSudoku036.java" afterPath="$PROJECT_DIR$/src/amazon/ValidSudoku036.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/ZigZagConversion006.java" afterPath="$PROJECT_DIR$/src/amazon/ZigZagConversion006.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/addBinary067.java" afterPath="$PROJECT_DIR$/src/amazon/addBinary067.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/addTwoNumber002.java" afterPath="$PROJECT_DIR$/src/amazon/addTwoNumber002.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/addTwoNumber445.java" afterPath="$PROJECT_DIR$/src/amazon/addTwoNumber445.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/bestTimeToBuyAndSell121.java" afterPath="$PROJECT_DIR$/src/amazon/bestTimeToBuyAndSell121.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/binaryTreeMaxPath124.java" afterPath="$PROJECT_DIR$/src/amazon/binaryTreeMaxPath124.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/binaryTreeZigZagLevelOrder103.java" afterPath="$PROJECT_DIR$/src/amazon/binaryTreeZigZagLevelOrder103.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/climbingStair070.java" afterPath="$PROJECT_DIR$/src/amazon/climbingStair070.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/compareVersion165.java" afterPath="$PROJECT_DIR$/src/amazon/compareVersion165.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/containerWithMostWater.java" afterPath="$PROJECT_DIR$/src/amazon/containerWithMostWater.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/copyRandomList138.java" afterPath="$PROJECT_DIR$/src/amazon/copyRandomList138.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/countAndSay038.java" afterPath="$PROJECT_DIR$/src/amazon/countAndSay038.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/courseSchedule207.java" afterPath="$PROJECT_DIR$/src/amazon/courseSchedule207.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/diameterOfTree.java" afterPath="$PROJECT_DIR$/src/amazon/diameterOfTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/exclusiveFunctionTime.java" afterPath="$PROJECT_DIR$/src/amazon/exclusiveFunctionTime.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/firstUniqueChar387.java" afterPath="$PROJECT_DIR$/src/amazon/firstUniqueChar387.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/flattenListIterator341.java" afterPath="$PROJECT_DIR$/src/amazon/flattenListIterator341.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/friendCycel547.java" afterPath="$PROJECT_DIR$/src/amazon/friendCycel547.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/gameOfLife289.java" afterPath="$PROJECT_DIR$/src/amazon/gameOfLife289.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/houseRobbery198.java" afterPath="$PROJECT_DIR$/src/amazon/houseRobbery198.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/insertIntevalii057.java" afterPath="$PROJECT_DIR$/src/amazon/insertIntevalii057.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/islandNumber200.java" afterPath="$PROJECT_DIR$/src/amazon/islandNumber200.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/jewelsAndStones771.java" afterPath="$PROJECT_DIR$/src/amazon/jewelsAndStones771.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/jumpGame055.java" afterPath="$PROJECT_DIR$/src/amazon/jumpGame055.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/kthLargestElementInArray.java" afterPath="$PROJECT_DIR$/src/amazon/kthLargestElementInArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/lcaOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/amazon/lcaOfBinaryTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/letterCombination17.java" afterPath="$PROJECT_DIR$/src/amazon/letterCombination17.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/linkedListCycleII.java" afterPath="$PROJECT_DIR$/src/amazon/linkedListCycleII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/longestVlidParentheses032.java" afterPath="$PROJECT_DIR$/src/amazon/longestVlidParentheses032.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/majorElement169.java" afterPath="$PROJECT_DIR$/src/amazon/majorElement169.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/majorElement229.java" afterPath="$PROJECT_DIR$/src/amazon/majorElement229.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/maxStack716.java" afterPath="$PROJECT_DIR$/src/amazon/maxStack716.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/meetingRoom2lock253.java" afterPath="$PROJECT_DIR$/src/amazon/meetingRoom2lock253.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/mergeTwoTrees617.java" afterPath="$PROJECT_DIR$/src/amazon/mergeTwoTrees617.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/minStack155.java" afterPath="$PROJECT_DIR$/src/amazon/minStack155.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/nextPermutation.java" afterPath="$PROJECT_DIR$/src/amazon/nextPermutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/palindromePair336.java" afterPath="$PROJECT_DIR$/src/amazon/palindromePair336.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/plusOne066.java" afterPath="$PROJECT_DIR$/src/amazon/plusOne066.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/removeNthNodeFromEndOfList019.java" afterPath="$PROJECT_DIR$/src/amazon/removeNthNodeFromEndOfList019.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/restoreIpAddress093.java" afterPath="$PROJECT_DIR$/src/amazon/restoreIpAddress093.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/reverseInKgroup.java" afterPath="$PROJECT_DIR$/src/amazon/reverseInKgroup.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/reverseInteger007.java" afterPath="$PROJECT_DIR$/src/amazon/reverseInteger007.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/reverseLinkedList206.java" afterPath="$PROJECT_DIR$/src/amazon/reverseLinkedList206.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/reverseLinkedListII092.java" afterPath="$PROJECT_DIR$/src/amazon/reverseLinkedListII092.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/searchInsertPosition.java" afterPath="$PROJECT_DIR$/src/amazon/searchInsertPosition.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/searchMatrix240.java" afterPath="$PROJECT_DIR$/src/amazon/searchMatrix240.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/swapNodesInPairs024.java" afterPath="$PROJECT_DIR$/src/amazon/swapNodesInPairs024.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/symmetricTree101.java" afterPath="$PROJECT_DIR$/src/amazon/symmetricTree101.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/test.java" afterPath="$PROJECT_DIR$/src/amazon/test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/threeSum015.java" afterPath="$PROJECT_DIR$/src/amazon/threeSum015.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/threeSumClosest016.java" afterPath="$PROJECT_DIR$/src/amazon/threeSumClosest016.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/ticTacToe348.java" afterPath="$PROJECT_DIR$/src/amazon/ticTacToe348.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/twoSum001.java" afterPath="$PROJECT_DIR$/src/amazon/twoSum001.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/validParentheses020.java" afterPath="$PROJECT_DIR$/src/amazon/validParentheses020.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facebook/wordSearch079.java" afterPath="$PROJECT_DIR$/src/amazon/wordSearch079.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/facebook/BasicCalculatorIII772.java" afterPath="$PROJECT_DIR$/src/facebook/BasicCalculatorIII772.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,102 +173,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BasicCalculatorIII772.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facebook/BasicCalculatorIII772.java">
+      <file leaf-file-name="WiggleSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/amazon/WiggleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            <state relative-caret-position="468">
+              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TrieTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facebook/TrieTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addTwoNumber002.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facebook/addTwoNumber002.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-321">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addTwoNumber445.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/facebook/addTwoNumber445.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="962">
-              <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringCompression443.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facebook/StringCompression443.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="countAndSay038.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facebook/countAndSay038.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compareVersion165.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facebook/compareVersion165.java">
+      <file leaf-file-name="findDuplicatedSubTrees652.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/amazon/findDuplicatedSubTrees652.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
-              <caret line="12" column="73" lean-forward="true" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="courseSchedule207.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facebook/courseSchedule207.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-182">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FloodFill733.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facebook/FloodFill733.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BasicCalculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facebook/BasicCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
+              <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,34 +208,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/facebook/reverseLinkedListII092.java" />
-        <option value="$PROJECT_DIR$/src/facebook/longestConsequtiveSequence.java" />
-        <option value="$PROJECT_DIR$/src/facebook/kthLargestElementInArray.java" />
-        <option value="$PROJECT_DIR$/src/facebook/BasicCalculatorii227.java" />
-        <option value="$PROJECT_DIR$/src/facebook/subArrayEqualsK.java" />
-        <option value="$PROJECT_DIR$/src/facebook/wordLadder127.java" />
-        <option value="$PROJECT_DIR$/src/facebook/binaryTreeZigZagLevelOrder103.java" />
-        <option value="$PROJECT_DIR$/src/facebook/restoreIpAddress093.java" />
-        <option value="$PROJECT_DIR$/src/facebook/minStack155.java" />
-        <option value="$PROJECT_DIR$/src/facebook/wordSearch079.java" />
-        <option value="$PROJECT_DIR$/src/facebook/palindromePair336.java" />
-        <option value="$PROJECT_DIR$/src/facebook/countAndSay038.java" />
-        <option value="$PROJECT_DIR$/src/facebook/reveseLinkedList234.java" />
-        <option value="$PROJECT_DIR$/src/facebook/binaryTreeLevelOrder102.java" />
-        <option value="$PROJECT_DIR$/src/facebook/maxAreaOfIsland.java" />
-        <option value="$PROJECT_DIR$/src/facebook/friendCycel547.java" />
-        <option value="$PROJECT_DIR$/src/facebook/jumpGame055.java" />
-        <option value="$PROJECT_DIR$/src/facebook/LicenseKeyFormating482.java" />
-        <option value="$PROJECT_DIR$/src/facebook/lcaOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/facebook/InsertDeleteGetRandom380.java" />
-        <option value="$PROJECT_DIR$/src/facebook/test.java" />
-        <option value="$PROJECT_DIR$/src/facebook/FindMedianFromDataStream.java" />
-        <option value="$PROJECT_DIR$/src/facebook/FindMedianFromDataStream295.java" />
-        <option value="$PROJECT_DIR$/src/facebook/searchInsertPosition.java" />
-        <option value="$PROJECT_DIR$/src/facebook/BinaryTreeInorderTravel.java" />
         <option value="$PROJECT_DIR$/src/facebook/FindMinimumInRotatedSortedArray153.java" />
         <option value="$PROJECT_DIR$/src/facebook/flattenListIterator341.java" />
         <option value="$PROJECT_DIR$/src/facebook/cloneGraph.java" />
@@ -221,6 +242,31 @@
         <option value="$PROJECT_DIR$/src/facebook/addTwoNumber445.java" />
         <option value="$PROJECT_DIR$/src/facebook/StringCompression443.java" />
         <option value="$PROJECT_DIR$/src/facebook/compareVersion165.java" />
+        <option value="$PROJECT_DIR$/src/facebook/DeleteNodeInaBST.java" />
+        <option value="$PROJECT_DIR$/src/facebook/DeleteNodeInaBST450.java" />
+        <option value="$PROJECT_DIR$/src/facebook/combinationSum39.java" />
+        <option value="$PROJECT_DIR$/src/facebook/reversePolitishNotation.java" />
+        <option value="$PROJECT_DIR$/src/facebook/maxProductSubArray152.java" />
+        <option value="$PROJECT_DIR$/src/facebook/largestNumber.java" />
+        <option value="$PROJECT_DIR$/src/facebook/largestNumber179.java" />
+        <option value="$PROJECT_DIR$/src/facebook/hammingDistance461.java" />
+        <option value="$PROJECT_DIR$/src/facebook/firstMissingPossitive041.java" />
+        <option value="$PROJECT_DIR$/src/facebook/findAllDuplicatedInArray442.java" />
+        <option value="$PROJECT_DIR$/src/facebook/firstAndLastElement34.java" />
+        <option value="$PROJECT_DIR$/src/facebook/decodeString.java" />
+        <option value="$PROJECT_DIR$/src/facebook/DegreeOfAnArray697.java" />
+        <option value="$PROJECT_DIR$/src/facebook/maxDepthTree.java" />
+        <option value="$PROJECT_DIR$/src/facebook/minDepthTree.java" />
+        <option value="$PROJECT_DIR$/src/facebook/findCelebreties.java" />
+        <option value="$PROJECT_DIR$/src/amazon/ConstructBtFromPreOrderAndInorderTravel105.java" />
+        <option value="$PROJECT_DIR$/src/amazon/BipartiteGraph785.java" />
+        <option value="$PROJECT_DIR$/src/amazon/missingNumber268.java" />
+        <option value="$PROJECT_DIR$/src/amazon/dailyTempertures739.java" />
+        <option value="$PROJECT_DIR$/src/amazon/jumpGame055.java" />
+        <option value="$PROJECT_DIR$/src/amazon/RotateArray189.java" />
+        <option value="$PROJECT_DIR$/src/amazon/sqrt69.java" />
+        <option value="$PROJECT_DIR$/src/amazon/WiggleSort.java" />
+        <option value="$PROJECT_DIR$/src/amazon/findDuplicatedSubTrees652.java" />
       </list>
     </option>
   </component>
@@ -231,10 +277,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1932" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -251,9 +297,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -294,12 +338,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="facebook" />
+              <option name="myItemId" value="amazon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -324,11 +370,11 @@
     <configuration default="false" name="kthLargestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
-          <option name="PATTERN" value="facebook.*" />
+          <option name="PATTERN" value="amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="facebook.kthLargestElementInArray" />
+      <option name="MAIN_CLASS_NAME" value="amazon.kthLargestElementInArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -344,11 +390,11 @@
     <configuration default="false" name="palindromePair336" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
-          <option name="PATTERN" value="facebook.*" />
+          <option name="PATTERN" value="amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="facebook.palindromePair336" />
+      <option name="MAIN_CLASS_NAME" value="amazon.palindromePair336" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -364,11 +410,11 @@
     <configuration default="false" name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
-          <option name="PATTERN" value="facebook.*" />
+          <option name="PATTERN" value="amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="facebook.test" />
+      <option name="MAIN_CLASS_NAME" value="amazon.test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -854,15 +900,19 @@
       <workItem from="1554169299379" duration="7831000" />
       <workItem from="1554289796524" duration="9102000" />
       <workItem from="1554419230290" duration="14082000" />
-      <workItem from="1554811774664" duration="11637000" />
+      <workItem from="1554811774664" duration="11774000" />
+      <workItem from="1554979191675" duration="3088000" />
+      <workItem from="1555065497914" duration="9748000" />
+      <workItem from="1555194954205" duration="14192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59722000" />
+    <option name="totallyTimeSpent" value="86887000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-7" y="2" width="1932" height="1085" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -878,7 +928,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21321961" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22008547" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -910,217 +960,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/facebook/subArrayEqualsK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/minStack155.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="47" column="62" lean-forward="true" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
-          <folding>
-            <element signature="e#680#681#0" expanded="false" />
-            <element signature="e#715#716#0" expanded="false" />
-            <element signature="e#742#743#0" expanded="false" />
-            <element signature="e#781#782#0" expanded="false" />
-            <element signature="e#855#864#0" expanded="false" />
-            <element signature="e#1406#1407#0" expanded="false" />
-            <element signature="e#1441#1442#0" expanded="false" />
-            <element signature="e#1469#1470#0" expanded="false" />
-            <element signature="e#1495#1496#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/restoreIpAddress093.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/wordSearch079.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/findMedianSortedArrays004.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="1957" column="18" lean-forward="false" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/palindromePair336.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1508">
-          <caret line="58" column="34" lean-forward="true" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/reveseLinkedList234.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="751">
-          <caret line="52" column="5" lean-forward="false" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/binaryTreeLevelOrder102.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/MaximumSubArray054.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/maxAreaOfIsland.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/islandNumber200.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/jumpGame055.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/LicenseKeyFormating482.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/InsertDeleteGetRandom380.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="788">
-          <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/friendCycel547.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="29" column="5" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/lcaOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/FindMedianFromDataStream295.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/searchInsertPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/BinaryTreeInorderTravel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/cloneGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/flattenListIterator341.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/houseRobbery198.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/houseRobbery198.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
@@ -1128,7 +968,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/FindMinimumInRotatedSortedArray153.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/FindMinimumInRotatedSortedArray153.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
@@ -1136,7 +976,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/ValidSudoku036.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/ValidSudoku036.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
@@ -1144,7 +984,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/diameterOfTree.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/diameterOfTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="20" column="5" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="20" selection-end-column="5" />
@@ -1152,32 +992,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/maxStack716.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/maxStack716.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#569#570#0" expanded="false" />
-            <element signature="e#604#605#0" expanded="false" />
-            <element signature="e#632#633#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="false" />
+            <element signature="e#567#568#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#630#631#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/BinarySearchTreeIterator173.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/BinarySearchTreeIterator173.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding>
-            <element signature="e#644#645#0" expanded="false" />
-            <element signature="e#698#699#0" expanded="false" />
+            <element signature="e#642#643#0" expanded="false" />
+            <element signature="e#696#697#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/majorElement169.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/majorElement169.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1185,7 +1025,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/majorElement229.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/majorElement229.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-338">
           <caret line="17" column="67" lean-forward="false" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
@@ -1195,7 +1035,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/RotateImage098.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/RotateImage098.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
@@ -1203,7 +1043,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/addBinary067.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/addBinary067.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
@@ -1211,7 +1051,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/swapNodesInPairs024.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/swapNodesInPairs024.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="20" column="5" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="20" selection-end-column="5" />
@@ -1219,7 +1059,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/linkedListCycleII.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/linkedListCycleII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
@@ -1227,7 +1067,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/firstUniqueChar387.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/firstUniqueChar387.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
@@ -1235,7 +1075,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/SortList.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/SortList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
@@ -1243,7 +1083,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/symmetricTree101.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/symmetricTree101.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -1251,15 +1091,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/searchMatrix240.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/wordLadder127.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/wordLadder127.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
           <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
@@ -1267,7 +1099,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/BasicCalculatorii227.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/BasicCalculatorii227.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
@@ -1275,31 +1107,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/BasicCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/BasicCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
+        <state relative-caret-position="182">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/BasicCalculatorIII772.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/BasicCalculatorIII772.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="936">
+          <caret line="36" column="17" lean-forward="false" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/courseSchedule207.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/courseSchedule207.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="598">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/FloodFill733.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/FloodFill733.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
@@ -1307,23 +1139,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/TrieTree.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/TrieTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        <state relative-caret-position="1144">
+          <caret line="44" column="9" lean-forward="false" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/addTwoNumber002.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/addTwoNumber002.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-321">
+        <state relative-caret-position="52">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/StringCompression443.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/StringCompression443.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
@@ -1331,27 +1163,232 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/countAndSay038.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/countAndSay038.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="260">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/compareVersion165.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/compareVersion165.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="12" column="73" lean-forward="true" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+          <caret line="12" column="73" lean-forward="false" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facebook/addTwoNumber445.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/addTwoNumber445.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="962">
+        <state relative-caret-position="850">
           <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/DeleteNodeInaBST450.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/reversePolitishNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/maxProductSubArray152.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/largestNumber179.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/firstMissingPossitive041.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/hammingDistance461.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/combinationSum39.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="9" selection-start-column="76" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/findAllDuplicatedInArray442.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/firstAndLastElement34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/decodeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/DegreeOfAnArray697.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/minDepthTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/maxDepthTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/findCelebreties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#757#758#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/missingNumber268.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/searchMatrix240.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/ConstructBtFromPreOrderAndInorderTravel105.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="72" lean-forward="true" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/RotateArray189.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/dailyTempertures739.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/BipartiteGraph785.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/jumpGame055.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/sqrt69.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/WiggleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/findDuplicatedSubTrees652.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
