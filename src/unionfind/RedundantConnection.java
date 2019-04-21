@@ -31,8 +31,8 @@ public class RedundantConnection {
             int node1Parent = find(node1);
             int node2Parent = find(node2);
             if(node1Parent == node2Parent) return false;
-            if(ranks[node1Parent] > ranks[node2Parent]) parent[node1Parent] = node2Parent;
-            else if (ranks[node1Parent] < ranks[node2Parent] ) parent[node2Parent] = node1Parent;
+            if(ranks[node1Parent] > ranks[node2Parent]) parent[node2Parent] = node1Parent;
+            else if (ranks[node1Parent] < ranks[node2Parent] ) parent[node1Parent] = node2Parent;
             else{
                 parent[node1Parent] = node2Parent;
                 ranks[node1Parent] += 1;

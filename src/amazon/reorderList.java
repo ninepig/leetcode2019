@@ -1,4 +1,6 @@
-package facebook;
+package amazon;
+
+import amazon.ListNode;
 
 public class reorderList {
     public void reorderList(ListNode head) {

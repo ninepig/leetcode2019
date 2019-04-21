@@ -30,8 +30,8 @@ public class UnionFindSet {
         int pu = find(u);
         int pv = find(v);
         if(pu == pv) return false;
-        if(ranks[pu] > ranks[pv]) parents[pu] = pv;
-        else if(ranks[pu] < ranks[pv] ) parents[pv] = pu;
+        if(ranks[pu] > ranks[pv]) parents[pv] = pu;
+        else if(ranks[pu] < ranks[pv] ) parents[pu] = pv;
         else {
             parents[pv] = pu;
             // 如果rank 相同，需要更新ranks值
