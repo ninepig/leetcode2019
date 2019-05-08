@@ -16,4 +16,15 @@ public class lcaOfBinaryTree {
 
         return null;
     }
+    public TreeNode lowestCommonAncestorBst(TreeNode root, TreeNode p, TreeNode q) {
+        if(root == null) return root;
+
+        if(root.val > q.val && root.val > p.val){
+            return lowestCommonAncestorBst(root.left , p , q);
+        }
+        if(root.val < q.val && root.val < p.val){
+            return lowestCommonAncestorBst(root.right , p , q);
+        }
+        return root;
+    }
 }
